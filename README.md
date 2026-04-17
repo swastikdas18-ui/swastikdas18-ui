@@ -86,8 +86,8 @@
 ## 🌐 Live Projects (Add Links Later)
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/🌍 [Live Website](https://swastikdas18-ui.github.io/Resume_web/)-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://swastikdas18-ui.github.io/Resume_web/">
+    <img src="https://img.shields.io/badge/🌍 [Live Website]-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/🎮 Game Demo-000?style=for-the-badge&logo=unity&logoColor=white"/>
