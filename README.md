@@ -1,142 +1,240 @@
-<!-- 🔥 ULTRA PREMIUM GITHUB PROFILE README -->
+<!-- ========================= -->
+<!--      SWASTIK DAS          -->
+<!-- ========================= -->
 
 <h1 align="center">Hi 👋, I'm Swastik Das</h1>
-<h3 align="center">🚀 Java Developer | 🎮 Unity Game Developer | 🌍 Strategy Game Creator</h3>
+
+<h3 align="center">
+Full Stack Software Developer • Mobile App Developer • Java Backend Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Unity+Game+Developer;Building+Strategy+Games;Future+Software+Engineer;Always+Learning+New+Things" />
+Building scalable digital products with modern technologies.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Spring+Boot+Developer;React+Native+Developer;Next.js+Developer;PostgreSQL+Database+Designer;Building+MAVR+Fitness+OS;Always+Learning+Modern+Technologies" />
 </p>
 
 ---
 
-## 🧠 About Me
+# 👨‍💻 About Me
 
-* 🎓 BCA Student passionate about technology
-* 💻 Skilled in **Java, Web Development & Unity**
-* 🎮 Developing a **real-world inspired strategy war game**
-* 🧠 Exploring **Game AI & Advanced Java**
-* ⚡ Focused on building real, impactful projects
+I'm a passionate Full Stack Developer focused on building scalable applications with modern technologies.
 
----
+Currently I'm developing **MAVR Fitness OS**, a complete fitness ecosystem consisting of multiple platforms including mobile apps, dashboards and backend services.
 
-## 🚀 Tech Stack
+### Current Focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,unity,github,vscode" />
-</p>
-
----
-
-## 🧩 Featured Projects
-
-### 🎮 Strategy War Game
-
-✨ A custom-built geopolitical strategy game
-
-* 🌍 15-country fictional world
-* ⚔️ Region ownership mechanics
-* 💰 Resource management system
-* 🧠 Planned AI-based warfare system
+- 📱 Cross-platform Mobile Development
+- ☕ Java & Spring Boot Backend
+- ⚛️ React Native & Expo
+- 🌐 Next.js Web Applications
+- 🗄️ PostgreSQL Database Design
+- 🔐 Authentication & Security
+- ☁️ Cloud Storage & APIs
+- 🏗️ Software Architecture
+- 🎨 Modern UI/UX Design
 
 ---
 
-### 🌐 Frontend Website
+# 🚀 Tech Stack
 
-✨ Clean and responsive UI project
-
-* 📱 Mobile-friendly design
-* 🎨 Modern UI/UX
-* ⚡ Fast performance
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swastikdas18-ui&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastikdas18-ui&theme=tokyonight&border_radius=10" height="170"/>
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastikdas18-ui&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swastikdas18-ui&theme=algolia&no-frame=true&row=1&margin-w=15" />
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swastikdas18-ui&theme=tokyo-night&area=true&hide_border=true" />
-</p>
-
----
-
-## 🌐 Live Projects (Add Links Later)
-
-<p align="center">
-  <a href="https://swastikdas18-ui.github.io/Resume_web/">
-    <img src="https://img.shields.io/badge/🌍 [Live Website]-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🎮 Game Demo-000?style=for-the-badge&logo=unity&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📸 Project Preview (Add Screenshots)
-
-<p align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Game+Screenshot" />
-  <img src="https://via.placeholder.com/400x200.png?text=Website+Preview" />
-</p>
-
----
-
-## 📫 Contact Me
+## Languages
 
 <p align="center">
 
-  <a href="mailto:your-swastikdas18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://wa.me/8100059471">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css,sql"/>
 
 </p>
 
 ---
 
-## 👀 Profile Views
+## Frontend
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swastikdas18-ui&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+
+</p>
+
+- React Native
+- Expo
+- Expo Router
+- TypeScript
+- NativeWind
+- Framer Motion
+
+---
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,java"/>
+
+</p>
+
+- Spring Boot
+- REST API
+- JWT Authentication
+- Firebase Authentication
+- PostgreSQL
+- Cloudinary
+
+---
+
+## Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgresql,firebase"/>
+
+</p>
+
+- PostgreSQL
+- Firebase
+- Database Design
+- Query Optimization
+
+---
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,postman"/>
+
 </p>
 
 ---
 
-## 💡 Developer Quote
+# 💼 Current Project
+
+# 🚀 MAVR Fitness OS
+
+A modern fitness ecosystem built for athletes, trainers, gyms and administrators.
+
+### Features
+
+- 🏋️ Athlete Platform
+- 👨‍🏫 Trainer Platform
+- 🏢 Gym Management
+- 🔥 Workout Tracking
+- 🥗 Diet Planning
+- 🤖 AI Coach
+- 📊 Analytics Dashboard
+- 💬 Real-time Chat
+- 🔔 Notifications
+- 📱 Cross Platform Mobile App
+- 🌐 Web Dashboard
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <i>"Great games are not built in a day, but every line of code builds the future."</i>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=swastik-das-18&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=swastik-das-18&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-das-18&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=swastik-das-18&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swastik-das-18&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🌍 Portfolio
+
+<p align="center">
+
+<a href="https://swastikdas18-ui.github.io/Resume_web/">
+
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="mailto:swastikdas18@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://wa.me/918100059471">
+
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/swastik-das-18">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=swastik-das-18&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+<p align="center">
+
+> **"Great software is built through thoughtful architecture, clean code, and continuous learning."**
+
 </p>
 
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/swastikdas18-ui">Swastik Das</a>
+
+### ⭐ Thanks for visiting my profile!
+
 </p>
