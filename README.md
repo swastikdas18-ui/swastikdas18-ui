@@ -133,7 +133,8 @@ A modern fitness ecosystem built for athletes, trainers, gyms and administrators
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastikdas18-ui&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastikdas18-ui&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -143,7 +144,8 @@ A modern fitness ecosystem built for athletes, trainers, gyms and administrators
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=swastikdas18-ui&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=swastikdas18-ui&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
