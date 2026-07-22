@@ -115,29 +115,15 @@ Currently I'm developing **MAVR Fitness OS**, a complete fitness ecosystem consi
 
 A modern fitness ecosystem built for athletes, trainers, gyms and administrators.
 
-### Features
-
-- 🏋️ Athlete Platform
-- 👨‍🏫 Trainer Platform
-- 🏢 Gym Management
-- 🔥 Workout Tracking
-- 🥗 Diet Planning
-- 🤖 AI Coach
-- 📊 Analytics Dashboard
-- 💬 Real-time Chat
-- 🔔 Notifications
-- 📱 Cross Platform Mobile App
-- 🌐 Web Dashboard
-
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=swastik-das-18&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=swastikdas18-ui&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=swastik-das-18&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=swastikdas18-ui&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -147,7 +133,7 @@ A modern fitness ecosystem built for athletes, trainers, gyms and administrators
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-das-18&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastikdas18-ui&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -157,7 +143,7 @@ A modern fitness ecosystem built for athletes, trainers, gyms and administrators
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=swastik-das-18&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=swastikdas18-ui&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -167,7 +153,7 @@ A modern fitness ecosystem built for athletes, trainers, gyms and administrators
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swastik-das-18&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swastikdas18-ui&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
@@ -203,7 +189,7 @@ A modern fitness ecosystem built for athletes, trainers, gyms and administrators
 
 </a>
 
-<a href="https://github.com/swastik-das-18">
+<a href="https://github.com/swastikdas18-ui">
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
@@ -217,7 +203,7 @@ A modern fitness ecosystem built for athletes, trainers, gyms and administrators
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=swastik-das-18&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=swastikdas18-ui&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
